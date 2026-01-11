@@ -3,7 +3,7 @@
 This project demonstrates how to host a secure, scalable static website on AWS.
 
 ## Architecture Diagram
-![Static Website Architecture](static-website-cloudfront-distribution.png
+![Static Website Architecture](static-website-cloudfront-distribution.png)
 
 ## Services Used
 - Amazon S3 (static website hosting)
